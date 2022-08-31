@@ -1,0 +1,15 @@
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/TicketingSystem.csproj.AssemblyReference.cache
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/TicketingSystem.AssemblyInfoInputs.cache
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/TicketingSystem.AssemblyInfo.cs
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/TicketingSystem.csproj.CoreCompileInputs.cache
+/Users/dulcediaz/Desktop/TicketingSystem/bin/Debug/net6.0/TicketingSystem
+/Users/dulcediaz/Desktop/TicketingSystem/bin/Debug/net6.0/TicketingSystem.deps.json
+/Users/dulcediaz/Desktop/TicketingSystem/bin/Debug/net6.0/TicketingSystem.runtimeconfig.json
+/Users/dulcediaz/Desktop/TicketingSystem/bin/Debug/net6.0/TicketingSystem.dll
+/Users/dulcediaz/Desktop/TicketingSystem/bin/Debug/net6.0/TicketingSystem.pdb
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/TicketingSystem.dll
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/refint/TicketingSystem.dll
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/TicketingSystem.pdb
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/TicketingSystem.genruntimeconfig.cache
+/Users/dulcediaz/Desktop/TicketingSystem/obj/Debug/net6.0/ref/TicketingSystem.dll
